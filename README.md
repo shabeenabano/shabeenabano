@@ -56,7 +56,7 @@ I enjoy working with data, finding meaningful insights, and building practical m
 | 📊 Sales Data Analysis | Python, Pandas, Matplotlib |
 | 🗄️ SQL Data Analysis | SQL, PostgreSQL |
 | 🏠 House Price Prediction | Python, Scikit-learn |
-| 🤖 KNN Machine Learning | Python, Scikit-learn |
+| 👥 Customer Churn Prediction | Python, Pandas, Scikit-learn, Machine Learning  |
 | 📰 Fake News Detection | Python, NLP, Machine Learning |
 
 > More projects coming soon 🚀
