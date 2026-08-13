@@ -54,11 +54,11 @@ I enjoy working with data, finding meaningful insights, and building practical m
 | Project | Technologies |
 |---|---|
 | 📊 Sales Data Analysis | Python, Pandas, Matplotlib |
-| 🗄️ SQL Data Analysis | SQL, PostgreSQL |
+| 🎬 Netflix Data Analysis | Pandas, EDA, Matplotlib, Seaborn |
 | 🏠 House Price Prediction | Python, Scikit-learn |
 | 👥 Customer Churn Prediction | Python, Pandas, Scikit-learn, Machine Learning  |
 | 📰 Fake News Detection | Python, NLP, Machine Learning |
-
+| 🌱 Plant Disease Image Classification | CNN, TensorFlow/Keras, Deep Learning |
 > More projects coming soon 🚀
 
 ---
