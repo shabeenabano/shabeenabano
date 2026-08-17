@@ -1,100 +1,189 @@
 👋 Hi, I'm Shabeena Bano
 
-🎯 Aspiring Data Scientist | Python | Data Analysis | Machine Learning
+🎯 Aspiring Data Scientist | Python | SQL | Machine Learning
 
-I am a Computer Science Engineering student passionate about Data Science, Data Analysis, and Machine Learning. I enjoy working with data, finding meaningful insights, and building practical projects using Python and its data science libraries.
+I am a B.Tech Computer Science student passionate about Data Science, Data Analysis, and Machine Learning. I enjoy working with data, discovering meaningful insights, creating visualizations, and building machine learning models to solve real-world problems.
 
----
-
-🧑‍💻 About Me
-
-- 🎓 Computer Science Engineering Student
-- 📊 Interested in Data Science & Data Analytics
-- 🐍 Learning and working with Python
-- 📈 Interested in Data Visualization and Exploratory Data Analysis
-- 🤖 Exploring Machine Learning
-- 🚀 Building practical projects to improve my skills
+Currently, I am strengthening my skills in Python, SQL, Statistics, Data Analysis, Machine Learning, and Data Visualization while building practical projects for my portfolio.
 
 ---
 
 🛠️ Skills & Technologies
 
-Programming
+💻 Programming & Data Analysis
 
 - Python
-- SQL
-
-Data Science
-
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
-- SciPy
-- Exploratory Data Analysis (EDA)
-- Data Cleaning
-- Data Visualization
-- Basic Statistics
 
-Machine Learning
+🗄️ Database
+
+- SQL
+- PostgreSQL
+- SQLite
+
+🤖 Machine Learning
 
 - Supervised Learning
-- Unsupervised Learning
 - Regression
 - Classification
-- Clustering
+- KNN
+- Model Evaluation
+- Feature Importance
 
-Tools
+📊 Data Science
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Feature Engineering
+- Statistical Analysis
+- Data Preprocessing
+
+🔧 Tools
 
 - Jupyter Notebook
 - Git & GitHub
 - Anaconda
+- VS Code
 
 ---
 
-📂 My Projects
+🚀 My Data Science Projects
 
-1. 📊 Sales Data Analysis
+1. 🛒 Sales Analysis
 
-Performed exploratory data analysis on sales data to identify important business insights, sales trends, customer behavior, and product performance.
+Objective:
+Analyzed sales data to understand sales performance, customer behavior, product categories, and business trends.
 
-Tools: Python, Pandas, NumPy, Matplotlib, Seaborn
+Key Work:
 
-2. 🎬 Netflix / Movie Data Analysis
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis
+- Customer and Product Analysis
+- Sales Trend Analysis
+- Data Visualization
+- Business Insights
 
-Analyzed movie data to explore popularity, ratings, genres, release dates, languages, and other patterns using data analysis and visualization techniques.
+Tools: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
-Tools: Python, Pandas, NumPy, Matplotlib, Seaborn
+---
 
-3. 🚀 More Projects Coming Soon
+2. 🎬 Netflix Data Analysis
 
-Currently working on more Data Science and Machine Learning projects to build a strong practical portfolio.
+Objective:
+Performed exploratory data analysis on Netflix/movie data to identify trends in movies, genres, ratings, popularity, languages, and release years.
+
+Key Work:
+
+- Data Cleaning
+- EDA
+- Genre Analysis
+- Rating Analysis
+- Popularity Analysis
+- Visualization of Movie Trends
+
+Tools: Python, Pandas, Matplotlib, Seaborn
+
+---
+
+3. 📊 Customer Churn Prediction
+
+Objective:
+Built a machine learning model to predict whether a customer is likely to leave a service.
+
+Key Work:
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Feature Engineering
+- Categorical Data Encoding
+- Train-Test Split
+- Machine Learning Model
+- Model Evaluation
+- Feature Importance
+
+Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+---
+
+4. 🏠 House Price Prediction
+
+Objective:
+Developed a machine learning model to predict house prices based on different property-related features.
+
+Key Work:
+
+- Data Preprocessing
+- Exploratory Data Analysis
+- Feature Analysis
+- Correlation Analysis
+- Train-Test Split
+- Regression Model
+- Model Evaluation
+- Actual vs Predicted Price Visualization
+
+Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+---
+
+5. 💰 Loan Approval Prediction
+
+Objective:
+Built a machine learning classification model to predict whether a loan application is likely to be approved based on applicant and financial information.
+
+Key Work:
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Feature Engineering
+- Categorical Encoding
+- Train-Test Split
+- Classification Model
+- Model Evaluation
+- Feature Importance
+
+Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 ---
 
 📚 Currently Learning
 
-- Advanced Statistics
+- Advanced Statistics for Data Science
 - Machine Learning
 - Feature Engineering
-- Model Evaluation
-- Data Science Projects
+- Model Optimization
 - SQL for Data Analysis
+- Data Science Interview Preparation
 
 ---
 
-🎯 Career Goal
+🎯 My Goal
 
-My goal is to become a Data Scientist and use data-driven approaches to solve real-world problems.
+My goal is to become a Data Scientist and use data-driven approaches to solve real-world business problems.
 
----
-
-📫 Connect With Me
-
-- 💼 GitHub: "Shabeena Bano" (https://github.com/)
-- 📧 Email: Null
-- 🔗 LinkedIn: Null
+I am continuously learning, building projects, improving my analytical skills, and preparing for opportunities in the field of Data Science and Machine Learning.
 
 ---
 
-⭐ Thanks for visiting my profile
+📈 GitHub Journey
+
+I believe that the best way to learn Data Science is by building practical projects.
+
+My GitHub repositories showcase my journey from Data Analysis → Exploratory Data Analysis → Machine Learning → Predictive Modeling.
+
+---
+
+🤝 Let's Connect
+
+I am always interested in learning new technologies, working on interesting data projects, and connecting with people from the Data Science community.
+
+ • 💼 GitHub: Shabeena Bano
+
+ • 📧 Email: Null
+
+ • 🔗 LinkedIn: Null
+
+Thanks for visiting my profile! ⭐
