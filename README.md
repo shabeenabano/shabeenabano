@@ -180,7 +180,7 @@ My GitHub repositories showcase my journey from Data Analysis → Exploratory Da
 
 I am always interested in learning new technologies, working on interesting data projects, and connecting with people from the Data Science community.
 
- • 💼 GitHub: Shabeena Bano
+ • 💼 GitHub: Shabeena Bano  /  [@shabeenabano](https://github.com/shabeenabano)
 
  • 📧 Email: Null
 
