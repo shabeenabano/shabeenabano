@@ -61,13 +61,51 @@ I enjoy working with data, discovering meaningful patterns, building Machine Lea
 
 📊 Featured Projects
 
-#| Project| Type| Key Features
-1| 🎬 Netflix Data Analysis| Data Analysis| Data Cleaning, EDA, Data Visualization, Pandas, Matplotlib, Seaborn
-2| 📊 Sales Analysis| Data Analysis| Sales Trends, Customer Analysis, Product Analysis, EDA, Visualization
-3| 👥 Customer Churn Prediction| Machine Learning| Data Preprocessing, Classification, Feature Analysis, Model Evaluation
-4| 🏠 House Price Prediction| Machine Learning| Data Cleaning, EDA, Regression, Feature Analysis, Model Evaluation
-5| 💰 Loan Approval Prediction| Machine Learning| Data Preprocessing, Classification, Feature Analysis, Model Evaluation
-6| 💳 Credit Card Fraud Detection| Machine Learning| SMOTE, Feature Scaling, Logistic Regression, Confusion Matrix, ROC-AUC
+🎬 Netflix Data Analysis
+
+Analyzed Netflix movie and TV show data using Python to identify trends in genres, popularity, ratings, languages, and release patterns.
+
+Key Skills: Pandas, NumPy, EDA, Matplotlib, Seaborn, Data Visualization
+
+---
+
+📊 Sales Analysis
+
+Analyzed sales transaction data to understand product performance, customer behavior, branches, cities, payment methods, and overall sales patterns.
+
+Key Skills: Pandas, EDA, Data Cleaning, Data Visualization, Matplotlib, Seaborn
+
+---
+
+👥 Customer Churn Prediction
+
+Built a Machine Learning classification model to predict customer churn and analyze the factors that influence customer retention.
+
+Key Skills: Data Preprocessing, Classification, Feature Analysis, Model Evaluation
+
+---
+
+🏠 House Price Prediction
+
+Developed a Machine Learning regression model to predict house prices based on different property-related features.
+
+Key Skills: Data Cleaning, EDA, Regression, Feature Analysis, Model Evaluation
+
+---
+
+💰 Loan Approval Prediction
+
+Built a Machine Learning classification model to predict loan approval based on financial and applicant-related information.
+
+Key Skills: Data Preprocessing, Classification, Feature Analysis, Model Evaluation
+
+---
+
+💳 Credit Card Fraud Detection
+
+Developed a Machine Learning model to identify fraudulent credit card transactions while handling class imbalance using SMOTE.
+
+Key Skills: SMOTE, Feature Scaling, Logistic Regression, Confusion Matrix, ROC-AUC
 
 ---
 
@@ -118,6 +156,7 @@ Python → Pandas → NumPy → Data Cleaning → EDA → Data Visualization →
 ⭐ Thanks for Visiting!
 
 Thank you for visiting my GitHub profile.
+
 Feel free to explore my repositories and Data Science projects.
 
 ⭐ If you find my projects useful, feel free to explore the repositories and connect with me.
