@@ -1,189 +1,123 @@
-👋 Hi, I'm Shabeena Bano
+Hi 👋, I'm Shabeena Bano
 
-🎯 Aspiring Data Scientist | Python | SQL | Machine Learning
+💻 B.Tech CSE | Aspiring Data Scientist
 
-I am a B.Tech Computer Science student passionate about Data Science, Data Analysis, and Machine Learning. I enjoy working with data, discovering meaningful insights, creating visualizations, and building machine learning models to solve real-world problems.
+I am a Computer Science Engineering student with a strong interest in Data Science, Data Analysis, and Machine Learning.
 
-Currently, I am strengthening my skills in Python, SQL, Statistics, Data Analysis, Machine Learning, and Data Visualization while building practical projects for my portfolio.
+I enjoy working with data, discovering meaningful patterns, building Machine Learning models, and creating data-driven solutions.
 
 ---
 
-🛠️ Skills & Technologies
+👩‍💻 About Me
 
-💻 Programming & Data Analysis
+- 🎓 B.Tech in Computer Science Engineering
+- 📊 Interested in Data Science & Data Analysis
+- 🤖 Learning Machine Learning
+- 🐍 Working with Python for Data Science
+- 📈 Interested in Data Visualization and Exploratory Data Analysis
+- 🚀 Building practical projects to strengthen my skills
+- 💼 Preparing for a career in Data Science
+
+---
+
+🛠️ Technical Skills
+
+💻 Programming
 
 - Python
-- NumPy
+- SQL
+
+📊 Data Science & Analysis
+
 - Pandas
+- NumPy
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+
+📈 Data Visualization
+
 - Matplotlib
 - Seaborn
 
-🗄️ Database
-
-- SQL
-- PostgreSQL
-- SQLite
-
 🤖 Machine Learning
 
-- Supervised Learning
 - Regression
 - Classification
-- KNN
+- Logistic Regression
+- K-Means Clustering
+- Feature Scaling
 - Model Evaluation
-- Feature Importance
+- SMOTE
 
-📊 Data Science
-
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Feature Engineering
-- Statistical Analysis
-- Data Preprocessing
-
-🔧 Tools
+🧰 Tools
 
 - Jupyter Notebook
-- Git & GitHub
-- Anaconda
-- VS Code
+- Git
+- GitHub
 
 ---
 
-🚀 My Data Science Projects
+📊 Featured Projects
 
-1. 🛒 Sales Analysis
-
-Objective:
-Analyzed sales data to understand sales performance, customer behavior, product categories, and business trends.
-
-Key Work:
-
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis
-- Customer and Product Analysis
-- Sales Trend Analysis
-- Data Visualization
-- Business Insights
-
-Tools: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
-
----
-
-2. 🎬 Netflix Data Analysis
-
-Objective:
-Performed exploratory data analysis on Netflix/movie data to identify trends in movies, genres, ratings, popularity, languages, and release years.
-
-Key Work:
-
-- Data Cleaning
-- EDA
-- Genre Analysis
-- Rating Analysis
-- Popularity Analysis
-- Visualization of Movie Trends
-
-Tools: Python, Pandas, Matplotlib, Seaborn
-
----
-
-3. 📊 Customer Churn Prediction
-
-Objective:
-Built a machine learning model to predict whether a customer is likely to leave a service.
-
-Key Work:
-
-- Data Cleaning
-- Exploratory Data Analysis
-- Feature Engineering
-- Categorical Data Encoding
-- Train-Test Split
-- Machine Learning Model
-- Model Evaluation
-- Feature Importance
-
-Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-
----
-
-4. 🏠 House Price Prediction
-
-Objective:
-Developed a machine learning model to predict house prices based on different property-related features.
-
-Key Work:
-
-- Data Preprocessing
-- Exploratory Data Analysis
-- Feature Analysis
-- Correlation Analysis
-- Train-Test Split
-- Regression Model
-- Model Evaluation
-- Actual vs Predicted Price Visualization
-
-Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-
----
-
-5. 💰 Loan Approval Prediction
-
-Objective:
-Built a machine learning classification model to predict whether a loan application is likely to be approved based on applicant and financial information.
-
-Key Work:
-
-- Data Cleaning
-- Exploratory Data Analysis
-- Feature Engineering
-- Categorical Encoding
-- Train-Test Split
-- Classification Model
-- Model Evaluation
-- Feature Importance
-
-Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+#| Project| Type| Key Features
+1| 🎬 Netflix Data Analysis| Data Analysis| Data Cleaning, EDA, Data Visualization, Pandas, Matplotlib, Seaborn
+2| 📊 Sales Analysis| Data Analysis| Sales Trends, Customer Analysis, Product Analysis, EDA, Visualization
+3| 👥 Customer Churn Prediction| Machine Learning| Data Preprocessing, Classification, Feature Analysis, Model Evaluation
+4| 🏠 House Price Prediction| Machine Learning| Data Cleaning, EDA, Regression, Feature Analysis, Model Evaluation
+5| 💰 Loan Approval Prediction| Machine Learning| Data Preprocessing, Classification, Feature Analysis, Model Evaluation
+6| 💳 Credit Card Fraud Detection| Machine Learning| SMOTE, Feature Scaling, Logistic Regression, Confusion Matrix, ROC-AUC
 
 ---
 
 📚 Currently Learning
 
-- Advanced Statistics for Data Science
-- Machine Learning
+- Advanced Machine Learning
+- Statistics for Data Science
 - Feature Engineering
-- Model Optimization
 - SQL for Data Analysis
+- Model Optimization
 - Data Science Interview Preparation
 
 ---
 
-🎯 My Goal
+🎯 Career Goal
 
-My goal is to become a Data Scientist and use data-driven approaches to solve real-world business problems.
+My goal is to become a Data Scientist and use data-driven approaches to solve real-world problems.
 
-I am continuously learning, building projects, improving my analytical skills, and preparing for opportunities in the field of Data Science and Machine Learning.
-
----
-
-📈 GitHub Journey
-
-I believe that the best way to learn Data Science is by building practical projects.
-
-My GitHub repositories showcase my journey from Data Analysis → Exploratory Data Analysis → Machine Learning → Predictive Modeling.
+I am continuously improving my technical skills by working on practical projects and learning new Data Science concepts.
 
 ---
 
-🤝 Let's Connect
+📈 My Data Science Journey
 
-I am always interested in learning new technologies, working on interesting data projects, and connecting with people from the Data Science community.
+Python → Pandas → NumPy → Data Cleaning → EDA → Data Visualization → SQL → Statistics → Machine Learning → Projects → Interview Preparation
 
- • 💼 GitHub: Shabeena Bano  /  [@shabeenabano](https://github.com/shabeenabano)
+---
 
- • 📧 Email: Null
+💡 Areas of Interest
 
- • 🔗 LinkedIn: Null
+- Data Science
+- Data Analysis
+- Machine Learning
+- Business Analytics
+- Data Visualization
+- Predictive Modeling
 
-Thanks for visiting my profile! ⭐
+---
+
+📫 Connect With Me
+
+- 💻 GitHub: Explore my repositories and Data Science projects
+- 📧 Email: Add your professional email here
+- 💼 LinkedIn: Add your LinkedIn profile here
+
+---
+
+⭐ Thanks for Visiting!
+
+Thank you for visiting my GitHub profile.
+Feel free to explore my repositories and Data Science projects.
+
+⭐ If you find my projects useful, feel free to explore the repositories and connect with me.
