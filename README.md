@@ -109,6 +109,16 @@ Key Skills: SMOTE, Feature Scaling, Logistic Regression, Confusion Matrix, ROC-A
 
 ---
 
+ 📊 7. Customer Segmentation and Recommendation System
+
+ - Customer segmentation using RFM analysis and K-Means Clustering.
+- Implemented customer similarity-based product recommendations.
+- Used Elbow Method and Silhouette Score for cluster evaluation.
+- *Technologies:* Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+---
+
+
 📚 Currently Learning
 
 - Advanced Machine Learning
