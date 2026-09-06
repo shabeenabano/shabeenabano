@@ -1,172 +1,153 @@
-Hi 👋, I'm Shabeena Bano
+# Hi, I'm Shabeena Bano 👋
 
-💻 B.Tech CSE | Aspiring Data Scientist
+### Data Analyst | Data Science & Machine Learning
 
-I am a Computer Science Engineering student with a strong interest in Data Science, Data Analysis, and Machine Learning.
+I'm a Computer Science Engineering student passionate about turning data into meaningful insights and building data-driven solutions.
 
-I enjoy working with data, discovering meaningful patterns, building Machine Learning models, and creating data-driven solutions.
-
----
-
-👩‍💻 About Me
-
-- 🎓 B.Tech in Computer Science Engineering
-- 📊 Interested in Data Science & Data Analysis
-- 🤖 Learning Machine Learning
-- 🐍 Working with Python for Data Science
-- 📈 Interested in Data Visualization and Exploratory Data Analysis
-- 🚀 Building practical projects to strengthen my skills
-- 💼 Preparing for a career in Data Science
+I work with **Python, SQL, Excel, Power BI, and Machine Learning** to clean, analyze, visualize, and model data.
 
 ---
 
-🛠️ Technical Skills
+## 👩‍💻 About Me
 
-💻 Programming
-
-- Python
-- SQL
-
-📊 Data Science & Analysis
-
-- Pandas
-- NumPy
-- Data Cleaning
-- Data Preprocessing
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-
-📈 Data Visualization
-
-- Matplotlib
-- Seaborn
-
-🤖 Machine Learning
-
-- Regression
-- Classification
-- Logistic Regression
-- K-Means Clustering
-- Feature Scaling
-- Model Evaluation
-- SMOTE
-
-🧰 Tools
-
-- Jupyter Notebook
-- Git
-- GitHub
+* 🎓 B.Tech in Computer Science Engineering
+* 📊 Interested in Data Analytics, Data Science & Business Analytics
+* 🐍 Building data solutions using Python
+* 🗄️ Working with SQL for data analysis
+* 📈 Creating dashboards and visualizations using Excel & Power BI
+* 🤖 Exploring Machine Learning and Predictive Analytics
+* 🚀 Building practical projects to strengthen real-world problem-solving skills
 
 ---
 
-📊 Featured Projects
+## 🛠️ Technical Skills
 
-🎬 Netflix Data Analysis
+### Programming & Data Analysis
 
-Analyzed Netflix movie and TV show data using Python to identify trends in genres, popularity, ratings, languages, and release patterns.
+* Python
+* SQL
+* Pandas
+* NumPy
 
-Key Skills: Pandas, NumPy, EDA, Matplotlib, Seaborn, Data Visualization
+### Data Analytics
 
----
+* Data Cleaning
+* Data Preprocessing
+* Exploratory Data Analysis (EDA)
+* Statistical Analysis
+* Feature Engineering
 
-📊 Sales Analysis
+### Data Visualization
 
-Analyzed sales transaction data to understand product performance, customer behavior, branches, cities, payment methods, and overall sales patterns.
+* Microsoft Excel
+* Power BI
+* Matplotlib
+* Seaborn
 
-Key Skills: Pandas, EDA, Data Cleaning, Data Visualization, Matplotlib, Seaborn
+### Machine Learning
 
----
+* Regression
+* Classification
+* Logistic Regression
+* K-Means Clustering
+* Feature Scaling
+* Model Evaluation
+* SMOTE
 
-👥 Customer Churn Prediction
+### Tools
 
-Built a Machine Learning classification model to predict customer churn and analyze the factors that influence customer retention.
-
-Key Skills: Data Preprocessing, Classification, Feature Analysis, Model Evaluation
-
----
-
-🏠 House Price Prediction
-
-Developed a Machine Learning regression model to predict house prices based on different property-related features.
-
-Key Skills: Data Cleaning, EDA, Regression, Feature Analysis, Model Evaluation
-
----
-
-💰 Loan Approval Prediction
-
-Built a Machine Learning classification model to predict loan approval based on financial and applicant-related information.
-
-Key Skills: Data Preprocessing, Classification, Feature Analysis, Model Evaluation
-
----
-
-💳 Credit Card Fraud Detection
-
-Developed a Machine Learning model to identify fraudulent credit card transactions while handling class imbalance using SMOTE.
-
-Key Skills: SMOTE, Feature Scaling, Logistic Regression, Confusion Matrix, ROC-AUC
+* Jupyter Notebook
+* Git
+* GitHub
+* Power Query
 
 ---
 
- 📊 7. Customer Segmentation and Recommendation System
+## 📊 Featured Projects
 
- - Customer segmentation using RFM analysis and K-Means Clustering.
-- Implemented customer similarity-based product recommendations.
-- Used Elbow Method and Silhouette Score for cluster evaluation.
-- *Technologies:* Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+### 👥 Customer Segmentation & Recommendation System
 
----
+Customer segmentation using **RFM analysis and K-Means clustering**, combined with a similarity-based product recommendation approach.
 
-
-📚 Currently Learning
-
-- Advanced Machine Learning
-- Statistics for Data Science
-- Feature Engineering
-- SQL for Data Analysis
-- Model Optimization
-- Data Science Interview Preparation
+**Tech:** Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn
 
 ---
 
-🎯 Career Goal
+### 📉 Customer Churn Prediction
 
-My goal is to become a Data Scientist and use data-driven approaches to solve real-world problems.
+Built a Machine Learning classification model to predict customer churn and identify factors associated with customer retention.
 
-I am continuously improving my technical skills by working on practical projects and learning new Data Science concepts.
-
----
-
-📈 My Data Science Journey
-
-Python → Pandas → NumPy → Data Cleaning → EDA → Data Visualization → SQL → Statistics → Machine Learning → Projects → Interview Preparation
+**Tech:** Python · Pandas · Scikit-learn · EDA · Classification · Model Evaluation
 
 ---
 
-💡 Areas of Interest
+### 💳 Credit Card Fraud Detection
 
-- Data Science
-- Data Analysis
-- Machine Learning
-- Business Analytics
-- Data Visualization
-- Predictive Modeling
+Developed a fraud detection model while addressing class imbalance using **SMOTE**, feature scaling and classification techniques.
+
+**Tech:** Python · Pandas · Scikit-learn · SMOTE · Logistic Regression · ROC-AUC
 
 ---
 
-📫 Connect With Me
+### 📈 Sales Data Analysis
 
-- 💻 GitHub: Explore my repositories and Data Science projects
-- 📧 Email: Add your professional email here
-- 💼 LinkedIn: Add your LinkedIn profile here
+Performed exploratory analysis of sales transactions to identify product performance, customer behavior, payment patterns and business trends.
+
+**Tech:** Python · Pandas · NumPy · Matplotlib · Seaborn
 
 ---
 
-⭐ Thanks for Visiting!
+### 🎬 Netflix Data Analysis
 
-Thank you for visiting my GitHub profile.
+Analyzed Netflix movies and TV shows to discover trends in content types, genres, release patterns and other characteristics.
 
-Feel free to explore my repositories and Data Science projects.
+**Tech:** Python · Pandas · NumPy · Matplotlib · Seaborn
 
-⭐ If you find my projects useful, feel free to explore the repositories and connect with me.
+---
+
+### 🏠 House Price Prediction
+
+Built a regression-based Machine Learning model to predict house prices using property-related features.
+
+**Tech:** Python · Pandas · Scikit-learn · Regression · EDA
+
+---
+
+### 💰 Loan Approval Prediction
+
+Developed a classification model to predict loan approval based on applicant financial and demographic information.
+
+**Tech:** Python · Pandas · Scikit-learn · Classification · Data Preprocessing
+
+---
+
+## 📚 Currently Learning
+
+* Advanced SQL
+* Power BI & DAX
+* Advanced Machine Learning
+* Feature Engineering
+* Statistics for Data Science
+* Model Optimization
+
+---
+
+## 🎯 Career Focus
+
+I'm interested in opportunities related to:
+
+**Data Analytics · Data Science · Business Analytics · Machine Learning**
+
+I enjoy solving problems with data and continuously improving my analytical and technical skills through practical projects.
+
+---
+
+## 📫 Connect With Me
+
+💼 **LinkedIn:** [Shabeena Bano](https://www.linkedin.com/in/shabeena-bano-49861542b/)
+
+🐙 **GitHub:** [shabeenabano](https://github.com/shabeenabano)
+
+---
+
+⭐ Thanks for visiting my profile!
