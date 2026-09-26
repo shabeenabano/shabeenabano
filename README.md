@@ -1,84 +1,119 @@
-# Hi, I'm Shabeena Bano 👋
+# 👋 Hi, I'm Shabeena Bano
 
-### Data Scientist | Python | SQL | Machine Learning | Data Analytics
+### Aspiring Data Scientist | Python | SQL | Machine Learning | Data Analytics
 
-I’m a Computer Science Engineering student focused on Data Science and Machine Learning. I enjoy transforming raw data into meaningful insights and building practical, data-driven solutions.
+I am a Computer Science student with a strong interest in **Data Science, Machine Learning, and Data Analytics**.
+
+I enjoy working with data to discover patterns, build machine learning models, create visualizations, and turn data into meaningful insights.
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech in Computer Science Engineering
+- 📊 Interested in Data Science & Data Analytics
+- 🤖 Learning and building Machine Learning projects
+- 🐍 Working with Python for data analysis and machine learning
+- 🗄️ Working with SQL and MySQL for data querying
+- 📈 Experienced with Excel and data visualization
+- 💡 Interested in solving real-world problems using data
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming & Data Analysis**
-Python · SQL · Pandas · NumPy
+### Programming & Database
+- Python
+- SQL
+- MySQL
 
-**Data Visualization**
-Excel · Power BI · Matplotlib · Seaborn
+### Data Analysis
+- Pandas
+- NumPy
+- SciPy
+- Excel
+- Power BI
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Data Visualization
 
-**Machine Learning**
-Regression · Classification · K-Means Clustering · Feature Engineering · Model Evaluation · SMOTE
+### Machine Learning
+- Scikit-learn
+- Feature Engineering
+- Classification
+- Regression
+- Clustering
+- Model Evaluation
+- Hyperparameter Tuning
 
-**Tools**
-Jupyter Notebook · Git · GitHub · Power Query
+### Visualization
+- Matplotlib
+- Seaborn
+- Power BI
+- Excel Dashboards
+
+### Tools & Environment
+- Jupyter Notebook
+- VS Code
+- Git
+- GitHub
+- Anaconda
 
 ---
 
-## 📊 Featured Projects
+## 📌 Featured Projects
 
-### 👥 Customer Segmentation & Recommendation
+### 🤖 Customer Churn Prediction
+Machine learning project that predicts customer churn using classification models and analyzes important factors associated with customer retention.
 
-Customer segmentation using RFM analysis and K-Means clustering, combined with a similarity-based product recommendation approach.
-
-**Tech:** Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn
-
-### 📉 Customer Churn Prediction
-
-Machine learning classification project to predict customer churn and identify factors associated with customer retention.
-
-**Tech:** Python · Pandas · Scikit-learn · EDA · Classification
+**Tech:** Python, Pandas, Scikit-learn, Logistic Regression, EDA
 
 ### 💳 Credit Card Fraud Detection
+Fraud detection project using data preprocessing, SMOTE, feature scaling, and Logistic Regression to identify fraudulent transactions.
 
-Fraud detection project focused on identifying suspicious transactions while handling class imbalance using SMOTE and classification techniques.
+**Tech:** Python, Pandas, Scikit-learn, SMOTE, Machine Learning
 
-**Tech:** Python · Pandas · Scikit-learn · SMOTE · Logistic Regression
+### 🏦 Loan Approval Prediction
+Classification project comparing Logistic Regression and Random Forest models for predicting loan approval outcomes.
 
-### 📈 Sales Data Analysis
-
-Exploratory analysis of sales data to identify sales trends, customer behavior, product performance, and business insights.
-
-**Tech:** Python · Pandas · NumPy · Matplotlib · Seaborn
-
-### 🛒 Online Retail Sales Analysis
-
-Excel-based analysis of online retail transactions to understand revenue trends, customer behavior, and product performance.
-
-**Tech:** Microsoft Excel · Pivot Tables · Data Analysis · Data Visualization
+**Tech:** Python, Pandas, Scikit-learn, Random Forest, EDA
 
 ### 🏠 House Price Prediction
+Machine learning regression project using Random Forest to predict house prices based on property-related features.
 
-Regression-based machine learning project to predict house prices using property-related features.
+**Tech:** Python, Pandas, Scikit-learn, Random Forest, Regression
 
-**Tech:** Python · Pandas · Scikit-learn · Regression · EDA
+### 🛒 Sales Data Analysis
+Exploratory data analysis project focused on revenue trends, product performance, branch and city performance, customer behavior, and payment patterns.
+
+**Tech:** Python, Pandas, Matplotlib, Seaborn
+
+### 🎬 Netflix Data Analysis
+Data analysis project exploring movie ratings, popularity, genres, languages, and release-year trends using visualization and EDA.
+
+**Tech:** Python, Pandas, Matplotlib, Seaborn
 
 ---
 
 ## 🎯 Career Focus
 
-Currently building practical projects in:
+I am currently focused on building practical skills and projects in:
 
-* Data Science
-* Machine Learning
-* Data Analytics
-* Business Analytics
-* Predictive Modeling
+- Data Science
+- Data Analytics
+- Machine Learning
+- Business Analytics
+- Predictive Modeling
 
-I’m continuously improving my skills through hands-on projects and real-world datasets.
+I am continuously improving my technical skills by working on practical datasets and end-to-end data projects.
 
 ---
 
-
 ## 📫 Connect With Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/shabeena-bano-49861542b/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shabeena-bano-49861542/)
+- 💻 [GitHub](https://github.com/shabeenabano)
 
-🐙 [GitHub](https://github.com/shabeenabano)
+---
+
+⭐ Feel free to explore my repositories and projects.
