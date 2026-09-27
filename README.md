@@ -75,35 +75,24 @@ I enjoy working with data to discover patterns, build machine learning models, c
 
 ## 📌 Featured Projects
 
-### 🤖 Customer Churn Prediction
-Machine learning project that predicts customer churn using classification models and analyzes important factors associated with customer retention.
+### 🤖 [Customer Churn Prediction](https://github.com/shabeenabano/Customer-Churn-Prediction)
+Machine learning project for predicting customer churn and identifying factors associated with customer retention.
 
-**Tech:** Python, Pandas, Scikit-learn, Logistic Regression, EDA
+### 💳 [Credit Card Fraud Detection](https://github.com/shabeenabano/Credit-Card-Fraud-Detection)
+Fraud detection project using EDA, SMOTE, feature scaling, and Logistic Regression.
 
-### 💳 Credit Card Fraud Detection
-Fraud detection project using data preprocessing, SMOTE, feature scaling, and Logistic Regression to identify fraudulent transactions.
+### 🏦 [Loan Approval Prediction](https://github.com/shabeenabano/Loan-Approval-Prediction)
+Classification project comparing Logistic Regression and Random Forest for loan approval prediction.
 
-**Tech:** Python, Pandas, Scikit-learn, SMOTE, Machine Learning
+### 🏠 [House Price Prediction](https://github.com/shabeenabano/House-Price-Prediction)
+Regression project using Random Forest to predict house prices from property-related features.
 
-### 🏦 Loan Approval Prediction
-Classification project comparing Logistic Regression and Random Forest models for predicting loan approval outcomes.
+### 🛒 [Sales Data Analysis](https://github.com/shabeenabano/Sales-Data-Analysis)
+Exploratory data analysis project focused on sales trends, product performance, customer behavior, and business insights.
 
-**Tech:** Python, Pandas, Scikit-learn, Random Forest, EDA
+### 🎬 [Netflix Data Analysis](https://github.com/shabeenabano/Netflix-Data-Analysis)
+Exploratory analysis of movie ratings, popularity, genres, languages, and release trends.
 
-### 🏠 House Price Prediction
-Machine learning regression project using Random Forest to predict house prices based on property-related features.
-
-**Tech:** Python, Pandas, Scikit-learn, Random Forest, Regression
-
-### 🛒 Sales Data Analysis
-Exploratory data analysis project focused on revenue trends, product performance, branch and city performance, customer behavior, and payment patterns.
-
-**Tech:** Python, Pandas, Matplotlib, Seaborn
-
-### 🎬 Netflix Data Analysis
-Data analysis project exploring movie ratings, popularity, genres, languages, and release-year trends using visualization and EDA.
-
-**Tech:** Python, Pandas, Matplotlib, Seaborn
 
 ---
 
