@@ -42,7 +42,6 @@ I enjoy working with data to discover patterns, build machine learning models, c
 ### Data Analysis
 - Pandas
 - NumPy
-- SciPy
 - Excel
 - Power BI
 - Exploratory Data Analysis (EDA)
