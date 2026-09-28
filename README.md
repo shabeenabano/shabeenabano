@@ -96,15 +96,15 @@ Exploratory data analysis project focused on sales trends, product performance, 
 
 ## 🎯 Career Focus
 
-I am currently focused on building practical skills and projects in:
+I am focused on building practical skills and end-to-end projects in:
 
 - Data Science
 - Data Analytics
 - Machine Learning
-- Business Analytics
 - Predictive Modeling
+- Business Analytics
 
-I am continuously improving my technical skills by working on practical datasets and end-to-end data projects.
+I continuously improve my skills by working with real-world datasets and developing practical data-driven solutions.
 
 ---
 
