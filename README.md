@@ -118,8 +118,14 @@ I am continuously improving my technical skills by working on practical datasets
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shabeena-bano-49861542/)
-- 💻 [GitHub](https://github.com/shabeenabano)
+<p align="left">
+  <a href="https://www.linkedin.com/in/shabeena-bano-49861542/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/shabeenabano">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
