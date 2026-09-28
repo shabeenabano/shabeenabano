@@ -132,4 +132,9 @@ I am continuously improving my technical skills by working on practical datasets
 
 ---
 
+### 🚀 Thanks for visiting my profile!
+
+I’m continuously learning, building, and improving my skills in **Data Science, Machine Learning, and Data Analytics**.
+
 ⭐ Feel free to explore my repositories and projects.
+
