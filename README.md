@@ -110,7 +110,7 @@ I continuously improve my skills by working with real-world datasets and develop
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shabeenabano&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shabeenabano&show_icons=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shabeenabano&layout=compact&hide_border=true)
 
