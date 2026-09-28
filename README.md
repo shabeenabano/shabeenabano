@@ -75,24 +75,23 @@ I enjoy working with data to discover patterns, build machine learning models, c
 
 ## 📌 Featured Projects
 
-### 🤖 [Customer Churn Prediction](https://github.com/shabeenabano/Customer-Churn-Prediction)
-Machine learning project for predicting customer churn and identifying factors associated with customer retention.
-
-### 💳 [Credit Card Fraud Detection](https://github.com/shabeenabano/Credit-Card-Fraud-Detection)
+### 💳 [Credit Card Fraud Detection](https://github.com/shabeenabano/credit-card-fraud-detection)
 Fraud detection project using EDA, SMOTE, feature scaling, and Logistic Regression.
 
-### 🏦 [Loan Approval Prediction](https://github.com/shabeenabano/Loan-Approval-Prediction)
-Classification project comparing Logistic Regression and Random Forest for loan approval prediction.
+### 👥 [Customer Segmentation & Recommendation](https://github.com/shabeenabano/Customer-Segmentation---Recommendation-System)
+Customer segmentation and product recommendation using RFM analysis, K-Means clustering, and similarity-based recommendation techniques.
+
+### 🤖 [Customer Churn Prediction](https://github.com/shabeenabano/Customer_Churn_Prediction)
+Machine learning project for predicting customer churn and identifying factors associated with customer retention.
 
 ### 🏠 [House Price Prediction](https://github.com/shabeenabano/House-Price-Prediction)
 Regression project using Random Forest to predict house prices from property-related features.
 
-### 🛒 [Sales Data Analysis](https://github.com/shabeenabano/Sales-Data-Analysis)
+### 🛒 [Online Retail Sales Analysis](https://github.com/shabeenabano/online-retail-sales-analysis)
+Excel-based analysis of online retail sales, customer behavior, and product performance.
+
+### 📊 [Sales Data Analysis](https://github.com/shabeenabano/sales-data-analysis)
 Exploratory data analysis project focused on sales trends, product performance, customer behavior, and business insights.
-
-### 🎬 [Netflix Data Analysis](https://github.com/shabeenabano/Netflix-Data-Analysis)
-Exploratory analysis of movie ratings, popularity, genres, languages, and release trends.
-
 
 ---
 
