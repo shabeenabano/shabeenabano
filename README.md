@@ -110,6 +110,11 @@ I am continuously improving my technical skills by working on practical datasets
 
 ---
 
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shabeenabano&show_icons=true&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shabeenabano&layout=compact&hide_border=true)
 
 ## 📫 Connect With Me
 
